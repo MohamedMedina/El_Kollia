@@ -1,4 +1,4 @@
-# El_Kolli
+# El Kollia
 This project is a way where Students and University Stuff can interact with each others
 This will contain:
 
