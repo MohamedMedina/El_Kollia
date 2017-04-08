@@ -1,5 +1,6 @@
 # El Kollia
-This project is a way where Students and University Stuff can interact with each others
+This is an android project through which Students and University Stuff can interact with each others.
+
 This will contain:
 
 1-easy way to connect professors with their students.
@@ -10,5 +11,5 @@ This will contain:
 
 4-notification in case of canceling or postponing any lecture.
 
-and many wonderful features
+and many wonderful features.
 
