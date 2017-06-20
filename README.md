@@ -13,3 +13,18 @@ This will contain:
 
 and many wonderful features.
 
+
+#NOTE
+the project has been refactored in branch V1.4 to mvp and designpatterns princibles.
+
+the project is feature base although it's not complete yet,but the all all fearures are well decoupled reusable and encapsulated.it's a good example to understand the android MVP architecture.
+
+
+#LATER ON
+the project will be refactored to android clean architecture and splite the modules and behaviours to many library projects
+
+
+
+
+
+
